@@ -3,7 +3,7 @@ Hi 👋, I'm Pranavi
 Computer Science and Technology Management @ UC Davis
 🔭 I’m currently working on many other smaller side projects on my bucket list. Like a personal portfolio site and scrappy MVP for AgroSAP, an AI powered soil remediation platform which started as a high school science fair project. 
 
-👯 I’m looking to 
+👯 I’m looking to build more scaleable projects and contunue owkring on AgroSAP.
 
 💬 Ask me about startups, hackathons, investing, CTFs, Coding,, photography, and blogging
 
